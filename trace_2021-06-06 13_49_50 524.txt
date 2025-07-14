@@ -1,0 +1,15 @@
+VersionCode: 3100
+VersionName: 6.0.0
+ColorOS Version: UNKNOW
+Mobile MODEL: RMX2163
+Android Version: 10
+Android API: 29
+getNetworkTypeName: mobile
+WindowWidth And WindowHeight: 1080*2285
+WindowDensity:3.0
+System's currenTimeMillis: 1622962190575
+TimeZone: libcore.util.ZoneInfo[id="Asia/Bangkok",mRawOffset=25200000,mEarliestRawOffset=24124000,mUseDst=false,mDstSavings=0,transitions=1]
+
+2021-06-06 13_49_37 838 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
+2021-06-06 13_49_39 080 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
+2021-06-08 22_20_04 289 / SIMS_ReceiverHandler : setImsConfig, volteStatus = true
